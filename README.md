@@ -8,6 +8,9 @@ viewing, updating, and deleting students.
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54ffe821-fd3c-41a2-a0e2-b70923b0d07f" />
+
+
 ## Features
 - Add new student
 - View all students
