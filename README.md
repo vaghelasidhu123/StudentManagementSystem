@@ -45,6 +45,9 @@ This application is used to manage student records including adding, viewing, up
 ### Database
 - MySQL
 
+### Dependency Management Tool
+- Maven
+
 ---
 
 ## Project Structure
