@@ -1,10 +1,8 @@
 # Student Management System
 
-Student Management System is a simple CRUD web application built using  
-Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, and Bootstrap.
+Student Management System is a simple CRUD web application built using Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, and Bootstrap.
 
-This application is used to manage student records including adding,
-viewing, updating, and deleting students.
+This application is used to manage student records including adding, viewing, updating, and deleting students.
 
 ---
 ### Create
