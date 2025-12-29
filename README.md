@@ -10,6 +10,14 @@ viewing, updating, and deleting students.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54ffe821-fd3c-41a2-a0e2-b70923b0d07f" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bef4911-2b1c-4772-a2df-f57069909d5b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b75ddb49-3764-4056-9d2d-88d02979237c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bef4911-2b1c-4772-a2df-f57069909d5b" />
+
+
+
 
 ## Features
 - Add new student
